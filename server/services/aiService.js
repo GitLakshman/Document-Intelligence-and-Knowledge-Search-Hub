@@ -20,7 +20,7 @@ class AIService {
      */
     initialize() {
         if (!process.env.GEMINI_API_KEY) {
-            console.warn('⚠️ Warning: GEMINI_API_KEY not set. AI features will not work.');
+            console.warn('Warning: GEMINI_API_KEY not set. AI features will not work.');
             return;
         }
         this.genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);

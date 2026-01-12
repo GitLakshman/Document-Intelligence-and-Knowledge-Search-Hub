@@ -267,6 +267,8 @@ App → Router → Pages → Components → API Client
 
 **Built with ❤️ using the MERN Stack + Gemini AI**
 
+**AI Assistance:** AI tools were used to assist in the development process.
+
 <sub>Last updated: January 2026</sub>
 
 </div>
