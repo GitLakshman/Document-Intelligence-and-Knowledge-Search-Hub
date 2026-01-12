@@ -267,8 +267,9 @@ App → Router → Pages → Components → API Client
 
 **Built with ❤️ using the MERN Stack + Gemini AI**
 
-**AI Assistance:** AI tools were used to assist in the development process.
+**AI Assistance:** AI tools were used to assist in the development process. Primarily for debugging, code optimization, and documentation, Testing was performed by the developer to ensure quality and correctness.
 
 <sub>Last updated: January 2026</sub>
 
 </div>
+ "
